@@ -3,7 +3,7 @@
 #include <string.h>
 
 /*Auto-generated code below aims at helping you parse
-the standard input according to the problem statement**/
+the standard input according to the problem statement*/
 int main()
 {
     int surfaceN; // the number of points used to draw the surface of Mars.
